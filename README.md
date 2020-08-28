@@ -2,6 +2,7 @@
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=jilvanx&color=lightgray) -->
 [![GitHub followers](https://img.shields.io/github/followers/jilvanx.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jilvanx?tab=followers)
+<!-- [![Contact me on Codementor](https://www.codementor.io/m-badges/jilvanx/contact-me.svg)](https://www.codementor.io/@jilvanx?refer=badge) -->
 
 I'm a passionate and enthusiastic frontend Developer. My prime expertise include Javascript (Typescript, React and React Native) but I also like to play around a little with [Flutter](https://flutter.dev/). I’m looking to collaborate open source projects, please contact me!
 
@@ -17,6 +18,7 @@ I'm a passionate and enthusiastic frontend Developer. My prime expertise include
 - Personal Website: [https://jilvanx.github.io/](https://jilvanx.github.io/)
 - Twitter: [@jilvanx](https://twitter.com/jilvanx)
 - LinkedIn: [https://www.linkedin.com/in/jilvanx/](https://www.linkedin.com/in/jilvanx/)
+- Codementor: [https://www.codementor.io/@jilvanx](https://www.codementor.io/@jilvanx?refer=badge)
 - StackOverflow: [https://stackoverflow.com/users/7264455/jilvanx](https://stackoverflow.com/users/7264455/jilvanx)
 <!-- - Dev.to: [https://dev.to/jilvanx](https://dev.to/jilvanx) -->
 
