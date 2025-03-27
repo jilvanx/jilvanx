@@ -23,13 +23,13 @@ I'm a passionate and enthusiastic frontend Developer. My prime expertise include
 ![](https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=blue)
 
-## 📬 Get in touch
+<!-- ## 📬 Get in touch
 - Personal Website: [https://jilvanx.github.io/](https://jilvanx.github.io/)
 - Twitter: [@jilvanx](https://twitter.com/jilvanx)
 - LinkedIn: [https://www.linkedin.com/in/jilvanx/](https://www.linkedin.com/in/jilvanx/)
 - Codementor: [https://www.codementor.io/@jilvanx](https://www.codementor.io/@jilvanx?refer=badge)
 - StackOverflow: [https://stackoverflow.com/users/7264455/jilvanx](https://stackoverflow.com/users/7264455/jilvanx)
-<!-- - Dev.to: [https://dev.to/jilvanx](https://dev.to/jilvanx) -->
+- Dev.to: [https://dev.to/jilvanx](https://dev.to/jilvanx) -->
 
 ## &#x1f4c8; My GitHub Stats
 
