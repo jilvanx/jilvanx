@@ -1,87 +1,32 @@
-# Hi, I'm Jilvan Silva 👋
+# Hi, I'm Jilvan 👋
 
-### Senior Mobile Engineer | React Native • TypeScript • iOS & Android
+### Android Developer | Kotlin | Jetpack Compose | Mobile Engineer
 
-I'm a Software Engineer based in Portugal with **20+ years of experience in software development**, currently focused on building scalable and production-ready mobile applications with **React Native and TypeScript**.
+I build reliable, maintainable mobile applications with a strong focus on native Android. With 20+ years in software development, I bring experience across fintech, emergency management, real estate, logistics, and energy products.
 
-I have experience across the full mobile development lifecycle — from architecture and feature development to API integration, testing, monitoring, CI/CD and **App Store / Google Play releases**.
+## Android toolkit
 
----
+`Kotlin` · `Java` · `Jetpack Compose` · `Android SDK` · `Coroutines` · `Flow` · `MVVM` · `Clean Architecture` · `Hilt/Dagger` · `Room` · `REST APIs` · `JUnit` · `Mockito` · `Gradle` · `CI/CD`
 
-## 📱 Mobile Stack
+## Selected experience
 
-**Core**
+- Led native Android development for an emergency management app using Kotlin and Jetpack Compose, including real-time alerts, push notifications, and Google Play release support.
+- Built mobile banking features with Kotlin, MVVM, Coroutines, dependency injection, API integrations, and unit testing.
+- Delivered production mobile experiences with biometric authentication, deep linking, offline-friendly state, and real-time messaging.
+- Collaborated closely with product, design, backend, and QA teams through architecture decisions, code reviews, debugging, and release delivery.
 
-`React Native` · `TypeScript` · `JavaScript` · `React`
+## Beyond native Android
 
-**State & Data**
+I also work with React Native, TypeScript, Flutter, Dart, Firebase, GraphQL, and mobile design systems—experience that helps me make pragmatic cross-platform decisions while keeping Android quality at the center.
 
-`TanStack Query` · `Redux Toolkit` · `Zustand` · `GraphQL` · `Apollo Client` · `REST APIs`
+## Currently exploring
 
-**Mobile**
+- Kotlin Multiplatform
+- Compose Multiplatform
+- Advanced Android architecture and testing
 
-`React Navigation` · `React Hook Form` · `MMKV` · `Deep Linking` · `Biometric Authentication`
+## Let's connect
 
-**Cloud & Services**
+[LinkedIn](https://www.linkedin.com/in/jilvanx/) · [Email](mailto:jilvan.silva@gmail.com)
 
-`Firebase` · `FCM` · `Twilio Conversations` · `Sentry`
-
-**Testing**
-
-`Jest` · `React Native Testing Library`
-
-**Delivery**
-
-`Git` · `GitHub Actions` · `Bitrise` · `Jenkins` · `CI/CD`
-
-**App Distribution**
-
-`Google Play Console` · `App Store Connect` · Android/iOS build & release workflows
-
----
-
-## 🚀 What I Build
-
-- Production React Native applications for **iOS and Android**
-- Reusable and scalable mobile components
-- REST and GraphQL API integrations
-- Server-state management with **TanStack Query / Apollo Client**
-- Offline-friendly applications and local persistence
-- Push notifications with **Firebase Cloud Messaging**
-- Authentication and biometric flows
-- Deep Links / Universal Links
-- Real-time messaging
-- Form-heavy mobile workflows
-- Monitoring and production troubleshooting
-- React Native upgrades and dependency migrations
-- Automated tests and CI/CD pipelines
-- App Store and Google Play release workflows
-
----
-
-## 🧩 Additional Experience
-
-While React Native is my main mobile focus, I also work with:
-
-`Kotlin` · `Jetpack Compose` · `Android SDK` · `Flutter` · `Dart`
-
-And on the web:
-
-`React` · `Next.js` · `Node.js` · `Express`
-
-This broader background helps me troubleshoot native integrations, understand backend dependencies and make better architectural decisions in React Native applications.
-
----
-
-## 🎯 Current Focus
-
-I'm particularly interested in:
-
-**React Native · TypeScript · Mobile Architecture · TanStack Query · Firebase · Performance · Offline-first Apps · CI/CD · App Store & Google Play Delivery**
-
----
-
-## 🤝 Let's Connect
-
-📍 Portugal 🇵🇹  
-💼 [LinkedIn](https://www.linkedin.com/in/jilvanx)
+📍 Portugal
